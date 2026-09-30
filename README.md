@@ -1,5 +1,6 @@
 # 抖音直播间获取弹幕
 联系人:15321331990
+可开体验账号查看
 > 更新日期：2026-09-03
 
 ---
@@ -7,6 +8,10 @@
 ## 一句话说明
 
 **是一个"AI 助播"软硬件系统：把抖音直播间的弹幕变成 AI 生成的话术，用商家自己的克隆音色合成语音，通过摆在直播桌上的小音箱实时念出来。**
+<img width="3483" height="1593" alt="image" src="https://github.com/user-attachments/assets/0faa3767-ef6d-4bd4-a36b-f16340a54c92" />
+<img width="3483" height="1593" alt="7387a1d7-db8a-400c-9b86-b66fc6efa5e3" src="https://github.com/user-attachments/assets/9937723f-6093-401c-8069-5fd7ff417c0e" />
+
+
 
 商家不需要额外雇助播，音箱插电联网就能 7×24 小时自动接待直播间的观众。
 
